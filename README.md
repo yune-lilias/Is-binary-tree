@@ -1,4 +1,4 @@
-# Is-binary-tree-simple-
+# Is-binary-tree-simple
 Check if a series of number (divided by space) can be a balanced binary tree 
 Data Structure assignment
 
